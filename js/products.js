@@ -16,8 +16,8 @@ const products = [
     old_price: 86700,
     isBestSeller: false,
     isNew: true,
-    img: "images/lap/product-1.jpg",
-    img_hover: "images/lap/product-1-1.jpg"
+    img: "lap/product-1.jpg",
+    img_hover: "lap/product-1-1.jpg"
   },
   {
     laptop: "hp",
@@ -35,8 +35,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11 Pro",
-    img: "images/lap/product-3-0.jpg",
-    img_hover: "images/lap/product-3-1.jpg"
+    img: "lap/product-3-0.jpg",
+    img_hover: "lap/product-3-1.jpg"
   },
   {
     laptop: "hp",
@@ -55,8 +55,8 @@ const products = [
     old_price: 70200,
     isBestSeller: true,
     isNew: false,
-    img: "images/lap/product-6-0.jpg",
-    img_hover: "images/lap/product-6-2.jpg"
+    img: "lap/product-6-0.jpg",
+    img_hover: "lap/product-6-2.jpg"
   },
   {
     laptop: "lenovo",
@@ -74,8 +74,8 @@ const products = [
     old_price: 58700,
     isBestSeller: true,
     isNew: false,
-    img: "images/lap/product-5-0.jpg",
-    img_hover: "images/lap/product-5-1.jpg"
+    img: "lap/product-5-0.jpg",
+    img_hover: "lap/product-5-1.jpg"
   },
   {
     laptop: "mac",
@@ -93,8 +93,8 @@ const products = [
     isBestSeller: true,
     isNew: false,
     os: "macOS Sonoma",
-    img: "images/lap/product-9-0.jpg",
-    img_hover: "images/lap/product-9-3.jpg"
+    img: "lap/product-9-0.jpg",
+    img_hover: "lap/product-9-3.jpg"
   },
   {
     laptop: "hp",
@@ -112,8 +112,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11",
-    img: "images/lap/product-2.jpg",
-    img_hover: "images/lap/product-2-1.jpg"
+    img: "lap/product-2.jpg",
+    img_hover: "lap/product-2-1.jpg"
   },
   
   {
@@ -132,8 +132,8 @@ const products = [
     isBestSeller: false,
     isNew: true,
     os: "Pro 11 Windows",
-    img: "images/lap/product-4-0.jpg",
-    img_hover: "images/lap/product-4-1.jpg"
+    img: "lap/product-4-0.jpg",
+    img_hover: "lap/product-4-1.jpg"
   },
 
   {
@@ -152,8 +152,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11 Pro",
-    img: "images/lap/product-7.jpg",
-    img_hover: "images/lap/product-7-1.jpg"
+    img: "lap/product-7.jpg",
+    img_hover: "lap/product-7-1.jpg"
   },
   
   {
@@ -172,8 +172,8 @@ const products = [
     isBestSeller: false,
     isNew: true,
     os: "Windows 11 Home",
-    img: "images/lap/product-8.jpg",
-    img_hover: "images/lap/product-8-1.jpg"
+    img: "lap/product-8.jpg",
+    img_hover: "lap/product-8-1.jpg"
   },
   {
     laptop: "hp",
@@ -192,8 +192,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11",
-    img: "images/lap/product-10.jpg",
-    img_hover: "images/lap/product-10-1.jpg"
+    img: "lap/product-10.jpg",
+    img_hover: "lap/product-10-1.jpg"
   },
   {
     laptop: "hp",
@@ -211,8 +211,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11",
-    img: "images/lap/product-11.jpg",
-    img_hover: "images/lap/product-11-1.jpg"
+    img: "lap/product-11.jpg",
+    img_hover: "lap/product-11-1.jpg"
   },
   {
     laptop: "hp",
@@ -230,8 +230,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11 Home",
-    img: "images/lap/product-12.jpg",
-    img_hover: "images/lap/product-12-1.jpg"
+    img: "lap/product-12.jpg",
+    img_hover: "lap/product-12-1.jpg"
   },
 
   
@@ -250,8 +250,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11 Home",
-    img: "images/lap/product-13.jpg",
-    img_hover: "images/lap/product-13-1.jpg"
+    img: "lap/product-13.jpg",
+    img_hover: "lap/product-13-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -269,8 +269,8 @@ const products = [
     isBestSeller: true,
     isNew: false,
     os: "Windows 11 Home",
-    img: "images/lap/product-14.jpg",
-    img_hover: "images/lap/product-14-1.jpg"
+    img: "lap/product-14.jpg",
+    img_hover: "lap/product-14-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -287,8 +287,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "Windows 11 Pro",
-    img: "images/lap/product-15.jpg",
-    img_hover: "images/lap/product-15-1.jpg"
+    img: "lap/product-15.jpg",
+    img_hover: "lap/product-15-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -305,8 +305,8 @@ const products = [
     isBestSeller: false,
     isNew: true,
     os: "Windows 11 Pro",
-    img: "images/lap/product-16.jpg",
-    img_hover: "images/lap/product-16-1.jpg"
+    img: "lap/product-16.jpg",
+    img_hover: "lap/product-16-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -323,8 +323,8 @@ const products = [
     isBestSeller: false,
     isNew: true,
     os: "Windows 11 Pro",
-    img: "images/lap/product-17.jpg",
-    img_hover: "images/lap/product-17-1.jpg"
+    img: "lap/product-17.jpg",
+    img_hover: "lap/product-17-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -342,8 +342,8 @@ const products = [
     isBestSeller: true,
     isNew: false,
     os: "Windows 11 Home",
-    img: "images/lap/product-18.jpg",
-    img_hover: "images/lap/product-18-1.jpg"
+    img: "lap/product-18.jpg",
+    img_hover: "lap/product-18-1.jpg"
   },
   {
     laptop: "lenovo",
@@ -360,8 +360,8 @@ const products = [
     isBestSeller: true,
     isNew: false,
     os: "Windows 11 Home",
-    img: "images/lap/product-19.jpg",
-    img_hover: "images/lap/product-19-1.jpg"
+    img: "lap/product-19.jpg",
+    img_hover: "lap/product-19-1.jpg"
   },
 
 
@@ -380,8 +380,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "macOS Big Show",
-    img: "images/lap/product-20.jpg",
-    img_hover: "images/lap/product-20-1.jpg"
+    img: "lap/product-20.jpg",
+    img_hover: "lap/product-20-1.jpg"
   },
 
   {
@@ -399,8 +399,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "macOS Monterey",
-    img: "images/lap/product-21.jpg",
-    img_hover: "images/lap/product-21-1.jpg"
+    img: "lap/product-21.jpg",
+    img_hover: "lap/product-21-1.jpg"
   },
 
   {
@@ -418,8 +418,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "macOS Monterey",
-    img: "images/lap/product-22.jpg",
-    img_hover: "images/lap/product-21-1.jpg"
+    img: "lap/product-22.jpg",
+    img_hover: "lap/product-21-1.jpg"
   },
 
   {
@@ -437,8 +437,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "macOS Monterey",
-    img: "images/lap/product-23.jpg",
-    img_hover: "images/lap/product-21-1.jpg"
+    img: "lap/product-23.jpg",
+    img_hover: "lap/product-21-1.jpg"
   },
 
   
@@ -456,8 +456,8 @@ const products = [
     isBestSeller: false,
     isNew: false,
     os: "macOS Monterey",
-    img: "images/lap/product-24.jpg",
-    img_hover: "images/lap/product-21-1.jpg"
+    img: "lap/product-24.jpg",
+    img_hover: "lap/product-21-1.jpg"
   },
 
   
@@ -475,8 +475,8 @@ const products = [
     isBestSeller: false,
     isNew: true,
     os: "macOS Sequoia",
-    img: "images/lap/product-25.jpg",
-    img_hover: "images/lap/product-25-2.jpg"
+    img: "lap/product-25.jpg",
+    img_hover: "lap/product-25-2.jpg"
   },
 
 
@@ -494,8 +494,8 @@ const products = [
     isBestSeller: true,
     isNew: false,
     os: "macOS Sequoia",
-    img: "images/lap/product-26.jpg",
-    img_hover: "images/lap/product-25-2.jpg"
+    img: "lap/product-26.jpg",
+    img_hover: "lap/product-25-2.jpg"
   },
   
 
